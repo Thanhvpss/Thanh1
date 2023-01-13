@@ -1341,18 +1341,6 @@ LevelQuest = 2
 NameQuest = "HauntedQuest2"
 NameMon = "Posessed Mummy"
 CFrameQuest = CFrame.new(-9516.99316, 172.017181, 6078.46533, 0, 0, -1, 0, 1, 0, 1, 0, 0)
-elseif MyLevel == 2075 or MyLevel <= 2099 then
-Mon = "Peanut Scout [Lv. 2075]"
-LevelQuest = 1
-NameQuest = "NutsIslandQuest"
-NameMon = "Peanut Scout"
-CFrameQuest = CFrame.new(-2104.3908691406, 38.104167938232, -10194.21875, 0, 0, -1, 0, 1, 0, 1, 0, 0)
-elseif MyLevel == 2100 or MyLevel <= 2124 then
-Mon = "Peanut President [Lv. 2100]"
-LevelQuest = 2
-NameQuest = "NutsIslandQuest"
-NameMon = "Peanut President"
-CFrameQuest = CFrame.new(-2104.3908691406, 38.104167938232, -10194.21875, 0, 0, -1, 0, 1, 0, 1, 0, 0)
 end
 end
 end
